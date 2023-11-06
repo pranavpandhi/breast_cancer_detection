@@ -14,7 +14,7 @@ Check out the corresponding medium blog post [https://towardsdatascience.com/con
 
 The dataset can be downloaded from [here](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/). This is a binary classification problem. I split the data as shown-
 
-## trained .h5 files
+## Trained .h5 files
 check out the already trained.h5 file here: (https://drive.google.com/drive/folders/1XV2Qir89tlsFdpTjwwGzVhf-4vEm6q7R?usp=drive_link)
 
 ```
